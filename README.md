@@ -1,7 +1,7 @@
 
 # Netflix-Clone
 
-Hi! _This is a front-end clone of netflix, using React. It isnt an exact clone, but I tried to replicate most of the styles and functionality.
+Hi! _This is a front-end clone of netflix, using React. It isnt an exact clone, but I tried to replicate most of the styles and functionality , also it is fully responsive.
 
 
 ## Screenshots
